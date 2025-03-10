@@ -1,7 +1,7 @@
 # Customer-Churn-Prediction
 Predicting telecom customer churn using Logistic Regression.
 
-Project Overview
+##Project Overview
 
 This project analyzes data from a telecommunications company, consisting of 7,043 customer records and multiple features across demographics, account details, and service usage.
 
