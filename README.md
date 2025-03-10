@@ -1,12 +1,12 @@
 # Customer-Churn-Prediction
 Predicting telecom customer churn using Logistic Regression.
 
-##Project Overview
+## Project Overview
 
 This project analyzes data from a telecommunications company, consisting of 7,043 customer records and multiple features across demographics, account details, and service usage.
 
 
-Key Steps:
+## Key Steps:
 
 Data Cleaning: Handled missing values, standardized data, and transformed features into binary formats.
 
@@ -23,7 +23,7 @@ StandardScaler for numerical features
 Evaluation Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC
 
 
-Key Insights
+## Key Insights
 
 ✅ Customers with month-to-month contracts, paperless billing, and fiber optic internet are more likely to churn.
 
@@ -39,7 +39,7 @@ High precision for non-churners, moderate recall for churners (room for improvin
 
 
 
-Strategic Recommendations
+## Strategic Recommendations
 
 Target At-Risk Customers: Especially those with high TotalCharges and short tenure.
 
@@ -50,7 +50,7 @@ Boost Retention: Promote long-term contracts with incentives and loyalty program
 Early Engagement: Improve onboarding and follow-up during the first 3 months.
 
 
-Tools & Techniques
+## Tools & Techniques
 
 Data Visualization: Matplotlib, Seaborn
 
