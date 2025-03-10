@@ -31,8 +31,11 @@ Evaluation Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC
 
 ✅ The model achieved:
     - Accuracy: 82%
+    
     - ROC-AUC: 0.86
+    
     - High precision for non-churners
+    
     - Moderate recall for churners (room for improving sensitivity)
 
 
@@ -54,10 +57,15 @@ Python
 
 ML Algorithms & Concepts:
     - Logistic Regression
+    
     - Classification
+    
     - Model Evaluation (Confusion Matrix, Precision, Recall, F1-Score)
+    
     - Data Preprocessing (Label Encoding, Feature Scaling, Train-Test Split)
+    
     - Hyperparameter Tuning
+    
     - Cross-Validation
 
 
