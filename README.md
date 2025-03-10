@@ -24,11 +24,13 @@ Evaluation Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC
 
 
 Key Insights
+
 ✅ Customers with month-to-month contracts, paperless billing, and fiber optic internet are more likely to churn.
 
 ✅ Short tenure and higher monthly charges strongly correlate with churn behavior.
 
 ✅ The model achieved:
+
 Accuracy: 82%
 
 ROC-AUC: 0.86
@@ -38,6 +40,7 @@ High precision for non-churners, moderate recall for churners (room for improvin
 
 
 Strategic Recommendations
+
 Target At-Risk Customers: Especially those with high TotalCharges and short tenure.
 
 Enhance Fiber Optic Offerings: Improve service quality to retain dissatisfied users.
@@ -48,6 +51,7 @@ Early Engagement: Improve onboarding and follow-up during the first 3 months.
 
 
 Tools & Techniques
+
 Data Visualization: Matplotlib, Seaborn
 
 Machine Learning Framework: Scikit-learn
@@ -62,5 +66,6 @@ Cross-Validation
 
 
 Conclusion
+
 This project successfully demonstrates how logistic regression can be used to predict customer churn with strong accuracy and actionable insights. By identifying key churn indicators—such as contract type, tenure, and monthly charges— I enable businesses to proactively target at-risk customers and enhance retention strategies.
 
