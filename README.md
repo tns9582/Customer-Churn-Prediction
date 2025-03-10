@@ -30,6 +30,7 @@ Evaluation Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC
 ✅ Short tenure and higher monthly charges strongly correlate with churn behavior.
 
 ✅ The model achieved:
+
     - Accuracy: 82%
     
     - ROC-AUC: 0.86
@@ -56,6 +57,7 @@ Early Engagement: Improve onboarding and follow-up during the first 3 months.
 Python
 
 ML Algorithms & Concepts:
+
     - Logistic Regression
     
     - Classification
