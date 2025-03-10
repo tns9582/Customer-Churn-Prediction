@@ -30,12 +30,10 @@ Evaluation Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC
 ✅ Short tenure and higher monthly charges strongly correlate with churn behavior.
 
 ✅ The model achieved:
-
-Accuracy: 82%
-
-ROC-AUC: 0.86
-
-High precision for non-churners, moderate recall for churners (room for improving sensitivity)
+    - Accuracy: 82%
+    - ROC-AUC: 0.86
+    - High precision for non-churners
+    - Moderate recall for churners (room for improving sensitivity)
 
 
 
@@ -65,7 +63,7 @@ Hyperparameter Tuning
 Cross-Validation
 
 
-Conclusion
+## Conclusion
 
 This project successfully demonstrates how logistic regression can be used to predict customer churn with strong accuracy and actionable insights. By identifying key churn indicators—such as contract type, tenure, and monthly charges— I enable businesses to proactively target at-risk customers and enhance retention strategies.
 
