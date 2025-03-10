@@ -50,17 +50,15 @@ Early Engagement: Improve onboarding and follow-up during the first 3 months.
 
 ## Tools & Techniques
 
-Data Visualization: Matplotlib, Seaborn
-
-Machine Learning Framework: Scikit-learn
+Python
 
 ML Algorithms & Concepts:
-Logistic Regression
-Classification
-Model Evaluation (Confusion Matrix, Precision, Recall, F1-Score)
-Data Preprocessing (Label Encoding, Feature Scaling, Train-Test Split)
-Hyperparameter Tuning
-Cross-Validation
+    - Logistic Regression
+    - Classification
+    - Model Evaluation (Confusion Matrix, Precision, Recall, F1-Score)
+    - Data Preprocessing (Label Encoding, Feature Scaling, Train-Test Split)
+    - Hyperparameter Tuning
+    - Cross-Validation
 
 
 ## Conclusion
