@@ -8,11 +8,17 @@ This project analyzes data from a telecommunications company, consisting of 7,04
 Key Steps:
 
 Data Cleaning: Handled missing values, standardized data, and transformed features into binary formats.
+
 EDA: Visualized churn patterns across demographics, billing, tenure, and service usage.
+
 Modeling: Built and evaluated a Logistic Regression model using:
+
 One-Hot Encoding for categorical variables
+
 StandardScaler for numerical features
+
 80/20 Train-Test Split
+
 Evaluation Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC
 
 Key Insights
