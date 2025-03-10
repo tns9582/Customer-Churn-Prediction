@@ -1,12 +1,12 @@
 # Customer-Churn-Prediction
 Predicting telecom customer churn using Logistic Regression.
 
-Project Overview
+###Project Overview
 This project analyzes data from a telecommunications company, consisting of 7,043 customer records and multiple features across demographics, account details, and service usage.
 
-Key Steps:
-Data Cleaning: Handled missing values, standardized data, and transformed features into binary formats.
-EDA: Visualized churn patterns across demographics, billing, tenure, and service usage.
+###Key Steps:
+##Data Cleaning: Handled missing values, standardized data, and transformed features into binary formats.
+##EDA: Visualized churn patterns across demographics, billing, tenure, and service usage.
 Modeling: Built and evaluated a Logistic Regression model using:
 One-Hot Encoding for categorical variables
 StandardScaler for numerical features
